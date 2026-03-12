@@ -1,0 +1,57 @@
+[
+    {
+        "name": "ถุงมือผู้รักษาประตู Pro1",
+        "price": "1,200฿",
+        "img": "images/zzzzzz.jpg"
+    },
+    {
+        "name": "ถุงมือผู้รักษาประตู Pro2",
+        "price": "1,500฿",
+        "img": "images/zzzzz.jpg"
+    },
+    {
+        "name": "ถุงมือผู้รักษาประตู Pro3",
+        "price": "1,800฿",
+        "img": "images/zzzz.jpg"
+    },
+    {
+        "name": "ถุงมือผู้รักษาประตู Pro4",
+        "price": "2,000฿",
+        "img": "images/zzz.jpg"
+    },
+    {
+        "name": "ถุงมือผู้รักษาประตู Champion",
+        "price": "2,500฿",
+        "img": "images/y.jpg"
+    },
+    {
+        "name": "ถุงมือผู้รักษาประตู Supreme",
+        "price": "2,800฿",
+        "img": "images/R.jpg"
+    },
+    {
+        "name": "ถุงมือผู้รักษาประตู Pro1 (สีดำ)",
+        "price": "1,200฿",
+        "img": "images/RR.jpg"
+    },
+    {
+        "name": "ถุงมือผู้รักษาประตู Pro2 (สีฟ้า)",
+        "price": "1,500฿",
+        "img": "images/RRR.jpg"
+    },
+    {
+        "name": "ถุงมือผู้รักษาประตู Pro3 (สีส้ม)",
+        "price": "1,800฿",
+        "img": "images/pppppppp.jpg"
+    },
+    {
+        "name": "ถุงมือผู้รักษาประตู Pro4 (สีเขียว)",
+        "price": "3,000฿",
+        "img": "images/pppppp.jpg"
+    },
+    {
+        "name": "ถุงมือผู้รักษาประตู Elite",
+        "price": "2,200฿",
+        "img": "images/ppppp.jpg"
+    }
+]
